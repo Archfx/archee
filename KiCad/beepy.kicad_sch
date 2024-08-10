@@ -10837,7 +10837,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a23a81b-7545-4108-b7b7-44ef6a44b367")
 		(property "Reference" "C3"
-			(at 182.499 143.7639 0)
+			(at 181.61 143.7639 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10845,8 +10845,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
-			(at 182.499 146.3039 0)
+		(property "Value" "2.2uF"
+			(at 181.61 146.3039 0)
 			(effects
 				(font
 					(size 1.27 1.27)
